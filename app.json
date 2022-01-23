@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-boilerplate",
-    "slug": "react-native-boilerplate",
+    "name": "milady-social-network",
+    "slug": "milady-social-network",
     "privacy": "public",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
